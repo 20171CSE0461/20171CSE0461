@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2><center>Image Links</h2>
+
+<p><b>Image as a link</b></p>
+
+<a href="https://www.oneplus.in/">
+  <img src="/home/Sem6B7/Desktop/index.jpeg" alt="HTML tutorial" style="width:300px;height:300px;border:0">
+</a>
+
+<p>We have added image + link</p>
+
+</body>
+</html>
+
